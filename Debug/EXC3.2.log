@@ -1,0 +1,3 @@
+﻿  UserInterface.cpp
+C:\Users\adrye\source\repos\EXC3.2\UserInterface.cpp(107,26): warning C4018: '<=': signed/unsigned mismatch
+  EXC3.2.vcxproj -> C:\Users\adrye\source\repos\EXC3.2\Debug\EXC3.2.exe
